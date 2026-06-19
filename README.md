@@ -357,8 +357,6 @@ Problema: En la vista del "Tablero de tareas" (versión en español), al despleg
 
 <img width="886" height="405" alt="Image" src="https://github.com/user-attachments/assets/f807c0eb-98b2-4377-ba18-a4a774f7f723" />
 
-<img width="886" height="406" alt="Image" src="https://github.com/user-attachments/assets/7fe2c277-cf6f-4ea5-a06b-52be3e20acea" /> 
-
 Recomendación: Implementar un estado por defecto legible para el selector (por ejemplo, "Todos los mecánicos" o "Seleccionar..."). Asimismo, asegurar que los mensajes de las listas vacías estén correctamente internacionalizados con vue-i18n para cambiar dinámicamente a "No hay opciones disponibles" cuando el idioma seleccionado sea el español. 
 
 **PROBLEMA \#22: Falta de control de estados vacíos (Empty States) cuantitativos en el Panel Principal** 
